@@ -1,5 +1,7 @@
 # chirpstack-device-importer for Elsys Lorawan Sensors
 
+Very quick & very dirty.. :-)
+
 install nfcpy via  pip install -U nfcpy
 
 download https://github.com/nfcpy/nfcpy 
